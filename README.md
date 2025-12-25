@@ -69,12 +69,12 @@ franko2arabic/
 ## 🚀 Basic Usage
 
 ```python
-print(translator.transliterate("u need to know each cell voltage").output_text)
+print(translator.transliterate("el7amdullelah enta 3amel eh").output_text)
 ```
 
 Output:
 ```
-لازم تعرف فولت كل خلية
+الحمدلله إنت عامل إيه
 ```
 
 ---
