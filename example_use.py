@@ -54,8 +54,6 @@ translator = FrankoToArabicTransliterator(
 # Examples
 # -------------------------------------------------
 examples = [
-    "howa fe el socm model, in Coulomb counting method, you used the coulombic efficiency?",
-    "Also, do you consider the measured terminal voltage in the SOC estimation using EKF SRS?",
     "Ok shokran ",
     "3la 2nhy link , CFR follow up?",
     "hwa bda2?"
