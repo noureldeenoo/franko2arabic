@@ -1,4 +1,4 @@
-# Franko2Arabic 🇪🇬➡️🇸🇦
+# Franko2Arabic 🇪🇬➡️AR
 
 **Franko2Arabic** is a modular Python library for translating **Franco / Franko / Arabizi** text  
 (Arabic written using Latin letters and numbers like `3`, `7`, `2`) into **proper Arabic script**.
